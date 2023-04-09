@@ -1,8 +1,8 @@
 # Arduino based Windows interface with CSharp
 
 This project consists of two parts : 
-1- Embedded with Arduino UNO
-2- Windows interface with CSharp
+- Embedded with Arduino UNO
+- Windows interface with CSharp
 
 ## Setup
 
