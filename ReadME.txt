@@ -18,13 +18,8 @@ This project consists of two parts :
 
 
 
-## Lisence
-
-Bu proje [Lisans adı](https://link-to-license). Daha fazla bilgi için LICENSE dosyasına bakın.
-
 ## Contact
 
 If you have any problem, please contact me. 
 
-- E-mail: [e-posta adresi](mailto:ornek@ornek.com)
-- Twitter: [@kullanici_adi](https://twitter.com/kullanici_adi)
+- E-mail: iensarkok@gmail.com
