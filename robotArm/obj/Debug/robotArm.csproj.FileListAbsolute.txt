@@ -1,0 +1,41 @@
+D:\Ensar\C#\robotArm\bin\Debug\robotArm.exe.config
+D:\Ensar\C#\robotArm\bin\Debug\robotArm.exe
+D:\Ensar\C#\robotArm\bin\Debug\robotArm.pdb
+D:\Ensar\C#\robotArm\obj\Debug\robotArm.csprojAssemblyReference.cache
+D:\Ensar\C#\robotArm\obj\Debug\robotArm.Form1.resources
+D:\Ensar\C#\robotArm\obj\Debug\robotArm.Properties.Resources.resources
+D:\Ensar\C#\robotArm\obj\Debug\robotArm.csproj.GenerateResource.cache
+D:\Ensar\C#\robotArm\obj\Debug\robotArm.exe
+D:\Ensar\C#\robotArm\obj\Debug\robotArm.pdb
+D:\Ensar\C#\robotArm\obj\Debug\robotArm.About.resources
+C:\Users\iensarkok\Downloads\robotArm-20191214T163207Z-001\robotArm\bin\Debug\robotArm.exe.config
+C:\Users\iensarkok\Downloads\robotArm-20191214T163207Z-001\robotArm\bin\Debug\robotArm.exe
+C:\Users\iensarkok\Downloads\robotArm-20191214T163207Z-001\robotArm\bin\Debug\robotArm.pdb
+C:\Users\iensarkok\Downloads\robotArm-20191214T163207Z-001\robotArm\obj\Debug\robotArm.csprojAssemblyReference.cache
+C:\Users\iensarkok\Downloads\robotArm-20191214T163207Z-001\robotArm\obj\Debug\robotArm.About.resources
+C:\Users\iensarkok\Downloads\robotArm-20191214T163207Z-001\robotArm\obj\Debug\robotArm.Form1.resources
+C:\Users\iensarkok\Downloads\robotArm-20191214T163207Z-001\robotArm\obj\Debug\robotArm.Properties.Resources.resources
+C:\Users\iensarkok\Downloads\robotArm-20191214T163207Z-001\robotArm\obj\Debug\robotArm.csproj.GenerateResource.cache
+C:\Users\iensarkok\Downloads\robotArm-20191214T163207Z-001\robotArm\obj\Debug\robotArm.exe
+C:\Users\iensarkok\Downloads\robotArm-20191214T163207Z-001\robotArm\obj\Debug\robotArm.pdb
+C:\Users\iensarkok\Desktop\Notes\University\2019-20\Computer Programming\Project\robotArm\bin\Debug\robotArm.exe.config
+C:\Users\iensarkok\Desktop\Notes\University\2019-20\Computer Programming\Project\robotArm\bin\Debug\robotArm.exe
+C:\Users\iensarkok\Desktop\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.csprojAssemblyReference.cache
+C:\Users\iensarkok\Desktop\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.About.resources
+C:\Users\iensarkok\Desktop\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.Form1.resources
+C:\Users\iensarkok\Desktop\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.Properties.Resources.resources
+C:\Users\iensarkok\Desktop\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.csproj.GenerateResource.cache
+C:\Users\iensarkok\Desktop\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.exe
+C:\Users\iensarkok\Desktop\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.pdb
+D:\Notes\University\2019-20\Computer Programming\Project\robotArm\bin\Debug\robotArm.exe.config
+D:\Notes\University\2019-20\Computer Programming\Project\robotArm\bin\Debug\robotArm.exe
+D:\Notes\University\2019-20\Computer Programming\Project\robotArm\bin\Debug\robotArm.pdb
+D:\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.csproj.AssemblyReference.cache
+D:\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.csproj.SuggestedBindingRedirects.cache
+D:\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.About.resources
+D:\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.Form1.resources
+D:\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.Properties.Resources.resources
+D:\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.csproj.GenerateResource.cache
+D:\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.csproj.CoreCompileInputs.cache
+D:\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.exe
+D:\Notes\University\2019-20\Computer Programming\Project\robotArm\obj\Debug\robotArm.pdb
